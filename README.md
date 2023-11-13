@@ -1,5 +1,6 @@
 # Geo Diver X
 Group project made with unreal engine 5, goal is to gain points by breaking the blocks and defeating the enemies by countering their bullets. Survive!
+
 I handled little bit of everything on this project, game design, the player character, collisions, abilities, lighting, infinite level scrolling, spawning of enemies and obstacles randomly, etc.
 
 ## Gameplay link:
