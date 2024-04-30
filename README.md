@@ -3,7 +3,7 @@ Group project made with unreal engine 5, goal is to gain points by breaking the 
 
 I handled little bit of everything on this project, game design, the player character, collisions, abilities, lighting, infinite level scrolling, spawning of enemies and obstacles randomly, etc.
 
-## Gameplay link:
+## Gameplay link: (Click the picture to open youtube)
  
 [![Video Thumbnail](https://github.com/TTalvenH/project_thumbnails/blob/master/GeoDiverX.png?raw=true)](https://youtu.be/CGuUvYQQ_Ps)
 
